@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatiThi3", "BatiThi3\BatiThi3.csproj", "{E9B0A7C9-7B20-4A3B-94AA-D3927A45CC88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9B0A7C9-7B20-4A3B-94AA-D3927A45CC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B0A7C9-7B20-4A3B-94AA-D3927A45CC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B0A7C9-7B20-4A3B-94AA-D3927A45CC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B0A7C9-7B20-4A3B-94AA-D3927A45CC88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E74997E8-65AF-4C98-85E3-630D5A137436}
+	EndGlobalSection
+EndGlobal

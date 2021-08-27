@@ -1,0 +1,13 @@
+D:\module 2\Thi-modue-2.2\Baithi1\BaiThi1\BaiThi1\bin\Debug\netcoreapp3.1\BaiThi1.exe
+D:\module 2\Thi-modue-2.2\Baithi1\BaiThi1\BaiThi1\bin\Debug\netcoreapp3.1\BaiThi1.deps.json
+D:\module 2\Thi-modue-2.2\Baithi1\BaiThi1\BaiThi1\bin\Debug\netcoreapp3.1\BaiThi1.runtimeconfig.json
+D:\module 2\Thi-modue-2.2\Baithi1\BaiThi1\BaiThi1\bin\Debug\netcoreapp3.1\BaiThi1.runtimeconfig.dev.json
+D:\module 2\Thi-modue-2.2\Baithi1\BaiThi1\BaiThi1\bin\Debug\netcoreapp3.1\BaiThi1.dll
+D:\module 2\Thi-modue-2.2\Baithi1\BaiThi1\BaiThi1\bin\Debug\netcoreapp3.1\BaiThi1.pdb
+D:\module 2\Thi-modue-2.2\Baithi1\BaiThi1\BaiThi1\obj\Debug\netcoreapp3.1\BaiThi1.csproj.AssemblyReference.cache
+D:\module 2\Thi-modue-2.2\Baithi1\BaiThi1\BaiThi1\obj\Debug\netcoreapp3.1\BaiThi1.AssemblyInfoInputs.cache
+D:\module 2\Thi-modue-2.2\Baithi1\BaiThi1\BaiThi1\obj\Debug\netcoreapp3.1\BaiThi1.AssemblyInfo.cs
+D:\module 2\Thi-modue-2.2\Baithi1\BaiThi1\BaiThi1\obj\Debug\netcoreapp3.1\BaiThi1.csproj.CoreCompileInputs.cache
+D:\module 2\Thi-modue-2.2\Baithi1\BaiThi1\BaiThi1\obj\Debug\netcoreapp3.1\BaiThi1.dll
+D:\module 2\Thi-modue-2.2\Baithi1\BaiThi1\BaiThi1\obj\Debug\netcoreapp3.1\BaiThi1.pdb
+D:\module 2\Thi-modue-2.2\Baithi1\BaiThi1\BaiThi1\obj\Debug\netcoreapp3.1\BaiThi1.genruntimeconfig.cache
